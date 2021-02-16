@@ -1,0 +1,25 @@
+{
+    "id": "CA2A4F89",
+    "path": "~/R/Data-Science/scripts/base.R",
+    "project_path": "scripts/base.R",
+    "type": "r_source",
+    "hash": "861730441",
+    "contents": "",
+    "dirty": false,
+    "created": 1611855891829.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "43,27",
+        "scrollLine": "33"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1611859347,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1611859347549,
+    "read_only": false,
+    "read_only_alternatives": []
+}
